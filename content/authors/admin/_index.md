@@ -31,7 +31,7 @@ interests:
 education:
   courses:
     - course: Pre-Doctoral MS in Computer Science
-      institution: Massachusetts Institute of Technology
+      institution: University of Chicago
       year: 2022-present
     - course: BE in Computer Sience and Technology
       institution: Shanghai Jiao Tong University
@@ -64,9 +64,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+ - icon: cv
+   icon_pack: ai
+   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'kangrui@uchicago.edu'
@@ -77,4 +77,4 @@ highlight_name: true
 
 Kangrui Wang is currently a first-year student in the Pre-Doctoral MS in Computer Science program at the University of Chicago. And prior to this, he got his bachelor’s degree in Computer Science from Shanghai Jiao Tong University in 2018, where he developed a passion for machine learning and worked in Explainable AI group specializing in explainable AI theories, interpretable neural networks, and the symbolic/semantic explanation of neural networks advised by Prof. Quanshi Zhang.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
