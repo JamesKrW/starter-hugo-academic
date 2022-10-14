@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 王康睿
+title: 
 
 # Full name (for SEO)
 first_name: Kangrui
