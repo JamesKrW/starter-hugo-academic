@@ -69,14 +69,12 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'kangrui@uchicago.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Kangrui Wang is currently a first-year student in the Pre-Doctoral MS in Computer Science program at the University of Chicago. And prior to this, he got his bachelor’s degree in Computer Science from Shanghai Jiao Tong University in 2018, where he developed a passion for machine learning and worked in Explainable AI group specializing in explainable AI theories, interpretable neural networks, and the symbolic/semantic explanation of neural networks advised by Prof. Quanshi Zhang.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
