@@ -28,7 +28,7 @@ content:
   email: Kangrui@uchiago.edu
   phone: 8729641255
   address:
-    street: 5801
+    street: 5801 S Ellis Ave
     city: Chicago
     region: IL
     postcode: '60637'
@@ -37,7 +37,7 @@ content:
   #coordinates:
   #  latitude: '37.4275'
   #  longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   #office_hours:
   #  - 'Monday 10:00 to 13:00'
   #  - 'Wednesday 09:00 to 10:00'
